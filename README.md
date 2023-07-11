@@ -6,7 +6,7 @@ This is a React-based quiz application that allows users to answer multiple-choi
 
 1. Clone the repository:
 ```
-git clone <repository_url>
+git clone git@github.com:sparkz-technology/react-quiz.git
 ```
 
 2. Navigate to the project directory:
